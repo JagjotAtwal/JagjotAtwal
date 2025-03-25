@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jagjot Atwal.
-- 🌱 I’m an aspiring data analyst.
+- 🌱 I love transforming data into meaningful insights.
 - ⚡ In my free time I enjoy analyzing data about sports, such as basketball 🏀 and baseball ⚾.
 
 <!---
